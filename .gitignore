@@ -1,5 +1,7 @@
 # Compilados de Maven (tu proyecto, la plantilla y los autotests)
 target/
+.pg-test-data/
+.pg-test.log
 
 # Secretos: nunca se sube
 .env
