@@ -1,8 +1,8 @@
 {
-  "equipo": "G00",
+  "equipo": "H1 G11",
   "integrantes": [
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
-    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+    { "nombre": "Andree Huaytalla", "codigo": "202410418" },
+    { "nombre": "Tom Laura", "codigo": "202220242" },
+    { "nombre": "Pepito Caneda", "codigo": "123123123" }
   ]
 }
